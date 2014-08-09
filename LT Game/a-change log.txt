@@ -1,0 +1,6 @@
+v 1.1
+added Moving sprites and chop animation to workers.
+
+v1.2 major graphical overhaul for the sprites. added 2 new trees, dumped the old ones. the house got a major upgrade as well. Enabled vertical sync to take care of some pesky tears in the screen. added top hud to screen and
+light-up 3d-effect +click sounds for the worker
+button.
